@@ -40,9 +40,9 @@ RUNNING AS ROOT IS NOT REQUIRED BUT IS RECOMMENDED
 - Ubuntu 19.10
 
 
-#CONTACT INFO
+## CONTACT INFO
 
-IG       | https://www.instagram.com/hackelite01
+
 GitHub   | https://github.com/hackelite01
 Telegram | https://t.me/hackelite01
 Email	 | hackelite.sup@gmail.com
