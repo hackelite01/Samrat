@@ -1,5 +1,5 @@
 # Samrat
-Samrat is a ultimate hackig tool kit with various in-built tools and functions. It has amazing hacking ability . To see updates check my instagram & telegram @hackelite01
+Samrat is a ultimate hacking tool kit with various in-built tools and functions. It has amazing hacking ability . To see updates check my instagram & telegram @hackelite01
 
 [![Python](https://img.shields.io/badge/Python-yellow.svg)](http://www.python.org/download/)
 
